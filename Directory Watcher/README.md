@@ -1,0 +1,2 @@
+# Directory Watcher
+This application monitors a directory for any change in files, created, modified or deleted files. Once there is a change, it notifies the user on the terminal. The application continously checks for changes until the program is terminated by the user. 
